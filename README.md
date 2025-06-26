@@ -1,3 +1,3 @@
-# Ensemble-DNN
+# Uncertainty-Aware DNN
 
-This repository contains the code to run and ensemble of deep neural networks (DNN). The DNN predicts the concentration of trace elements based on the major ones.
+This repository contains the code to run deep neural networks (DNNs). The DNNs predicts the concentration of trace elements based on the major ones.
